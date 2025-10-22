@@ -204,7 +204,8 @@ project's database.
 > - Create a service to fetch articles ordered by specified user preferences.
     This means, topics preferred by a user affect articles order. Queryset
     should be ordered in a way, to have articles with most corresponding topics
-    at the begging.
+    at the begging. However, the publication date should be preferred over
+    the topic.
 
 ## Challenge: Templates
 
