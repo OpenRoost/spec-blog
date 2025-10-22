@@ -209,7 +209,7 @@ project's database.
 
 ## Challenge: Templates
 
-> [!HINT]
+> [!TIP]
 > Helpful link:
 > [Bootstrap template](https://github.com/devsforge/css-bootstrap-blog)
 
